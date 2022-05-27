@@ -1,0 +1,13 @@
+챗봇 시스템은 코랩이나 주피터같은 노트북용으로는 사용이 불가능합니다.
+
+파이참이나 vscode에서 실행해주세요
+
+실행방법 -> pip install python-telegram-bot 입력후 token_use파일을 실행시키면 작동합니다.
+
+실행이 안된다면 아래의 토큰과 id가 올바른지 확인해주시고 다시 실행해주세요
+token = "5388511182:AAEFzZozD766CMpcJTNnHvyTb2RBXn5x-iU"
+id = "5189265652"
+
+-----코로나 챗봇기준 ----
+코로나 챗봇은 셀레니움을 사용합니다. 셀레니움이 설치되지 않았다면 설치해주세요
+pip install selenium
